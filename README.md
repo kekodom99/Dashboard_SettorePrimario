@@ -33,6 +33,8 @@ Dashboard_SettorePrimario/
 │   └── dati_simulati.csv
 │
 ├── requirements.txt
+├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
