@@ -62,7 +62,8 @@ Dashboard_SettorePrimario/
 
 5. Avvia la dashboard:
    ```bash
-   python dashboard/dashboard.py
+   cd dashboard
+   python dashboard.py
    ```
 
 
