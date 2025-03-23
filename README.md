@@ -38,7 +38,7 @@ Dashboard_SettorePrimario/
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-utente/Dashboard_SettorePrimario.git
+   git clone [https://github.com/tuo-utente/Dashboard_SettorePrimario.git](https://github.com/kekodom99/pw-Dashboard_SettorePrimario)
    cd Dashboard_SettorePrimario
    ```
 
